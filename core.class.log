@@ -1,0 +1,284 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '59176610605@s.whatsapp.net',
+    fromMe: false,
+    id: 'F7498166AD467DFC4BCD2CC54C0D4ACB',
+    participant: undefined
+  },
+  messageTimestamp: 1718368928,
+  pushName: 'BBS INFORMATICS SOLUTIONS',
+  broadcast: false,
+  message: Message {
+    conversation: 'Buenos dias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'BBS INFORMATICS SOLUTIONS',
+  body: 'Buenos dias',
+  name: 'BBS INFORMATICS SOLUTIONS',
+  from: '59176610605',
+  host: '59168634466'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8add1403-535d-4bb0-8d7b-08ca067e4e84',
+  keyword: 'key_650d21a8-33b8-45f9-8cff-17643c33be1e',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '9bab138a7f60652366e484854141bce3'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_70e0980a-90c8-4ec6-893d-e0a405a1b28d',
+  keyword: 'ans_8add1403-535d-4bb0-8d7b-08ca067e4e84',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '91161498c9c3e73cbd6d20ce493afc60'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59176610605@s.whatsapp.net',
+    fromMe: false,
+    id: 'C6C7528BC6B79DFD88FD8C7203A49EE9',
+    participant: undefined
+  },
+  messageTimestamp: 1718368944,
+  pushName: 'BBS INFORMATICS SOLUTIONS',
+  broadcast: false,
+  message: Message {
+    conversation: '¿Que servicio ofreces?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'BBS INFORMATICS SOLUTIONS',
+  body: '¿Que servicio ofreces?',
+  name: 'BBS INFORMATICS SOLUTIONS',
+  from: '59176610605',
+  host: '59168634466'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8add1403-535d-4bb0-8d7b-08ca067e4e84',
+  keyword: 'key_650d21a8-33b8-45f9-8cff-17643c33be1e',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '9bab138a7f60652366e484854141bce3'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_70e0980a-90c8-4ec6-893d-e0a405a1b28d',
+  keyword: 'ans_8add1403-535d-4bb0-8d7b-08ca067e4e84',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '91161498c9c3e73cbd6d20ce493afc60'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59176610605@s.whatsapp.net',
+    fromMe: false,
+    id: 'A63E97F8FB9E01C0EC3DB55DB83DDFF5',
+    participant: undefined
+  },
+  messageTimestamp: 1718368986,
+  pushName: 'BBS INFORMATICS SOLUTIONS',
+  broadcast: false,
+  message: Message {
+    conversation: '¿Cuales son tus precios?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'BBS INFORMATICS SOLUTIONS',
+  body: '¿Cuales son tus precios?',
+  name: 'BBS INFORMATICS SOLUTIONS',
+  from: '59176610605',
+  host: '59168634466'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8add1403-535d-4bb0-8d7b-08ca067e4e84',
+  keyword: 'key_650d21a8-33b8-45f9-8cff-17643c33be1e',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '9bab138a7f60652366e484854141bce3'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_70e0980a-90c8-4ec6-893d-e0a405a1b28d',
+  keyword: 'ans_8add1403-535d-4bb0-8d7b-08ca067e4e84',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '91161498c9c3e73cbd6d20ce493afc60'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59176610605@s.whatsapp.net',
+    fromMe: false,
+    id: 'EDA140250C333BADCABD992E5B1C5B74',
+    participant: undefined
+  },
+  messageTimestamp: 1718369879,
+  pushName: 'BBS INFORMATICS SOLUTIONS',
+  broadcast: false,
+  message: Message {
+    conversation: 'Para desarrollar una aplicación movil basica ¿Cuanto costaría?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'BBS INFORMATICS SOLUTIONS',
+  body: 'Para desarrollar una aplicación movil basica ¿Cuanto costaría?',
+  name: 'BBS INFORMATICS SOLUTIONS',
+  from: '59176610605',
+  host: '59168634466'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8add1403-535d-4bb0-8d7b-08ca067e4e84',
+  keyword: 'key_650d21a8-33b8-45f9-8cff-17643c33be1e',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '9bab138a7f60652366e484854141bce3'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_70e0980a-90c8-4ec6-893d-e0a405a1b28d',
+  keyword: 'ans_8add1403-535d-4bb0-8d7b-08ca067e4e84',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '91161498c9c3e73cbd6d20ce493afc60'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59173373709@s.whatsapp.net',
+    fromMe: false,
+    id: '3AAEB1B63984770C628A',
+    participant: undefined
+  },
+  messageTimestamp: 1718370042,
+  pushName: '~ Katherin',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'Yes', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Yes',
+  name: '~ Katherin',
+  from: '59173373709',
+  host: '59168634466'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8add1403-535d-4bb0-8d7b-08ca067e4e84',
+  keyword: 'key_650d21a8-33b8-45f9-8cff-17643c33be1e',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '9bab138a7f60652366e484854141bce3'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_70e0980a-90c8-4ec6-893d-e0a405a1b28d',
+  keyword: 'ans_8add1403-535d-4bb0-8d7b-08ca067e4e84',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '91161498c9c3e73cbd6d20ce493afc60'
+}
